@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-const tempebulK float64 = 373
+const tempebulK float64 = 373  //ponto de obulição da agua em kelvin
 
 func main() {
 
